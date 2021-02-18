@@ -22,6 +22,7 @@ html {
     background-color: dimgray;
 
 
+
 }
 
 
@@ -44,5 +45,13 @@ body {
 div a img{
 
 width: 30%;
+    margin: 1rem;
+    border: 0.2rem solid black;
+    border-radius: 1rem;
+    flex-wrap: wrap;
+}
+
+h1{
+font-size: 1.8rem;
 
 }
